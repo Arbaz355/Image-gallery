@@ -1,0 +1,29 @@
+*{
+    background-color:rgb(204, 219, 216);
+}
+h1 {
+    color:darkolivegreen;
+    font-weight:normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding:10px;
+    margin:10px;
+    border:5px lightslategrey solid;
+}
+div.gallary {
+    width:180px;
+    margin:5px;
+    border:3px #ccc solid;
+    float: left;
+}
+div.gallary img{
+    width:100%;
+    height:auto;
+}
+div.text {
+    padding:5px;
+    text-align: center;
+}
+div.gallary:hover {
+    border:2px rgb(65, 100, 90) solid;
+
+}
